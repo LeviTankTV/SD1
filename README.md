@@ -1,5 +1,7 @@
 # Supreme Dungeon I
 
+[![Latest release](https://img.shields.io/github/v/release/LeviTankTV/SD1)](https://github.com/LeviTankTV/SD1/releases/latest) [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-4a7dff)](https://github.com/LeviTankTV/SD1/releases/latest) [![License](https://img.shields.io/badge/license-MIT-34c759)](LICENSE)
+
 **Turn-based roguelike · 60 rooms · 14 room types · 3 endings · full 1:1 port of the terminal game.**
 
 You wake up in a dark dungeon of 60 rooms. Fight monsters and skeletons, open chests (beware mimics!), bargain with 6 mages, face the **Supreme Mage** with all 20 of his attacks, beat the boss, solve the scroll riddle — and choose your ending: doom, emperor, or the true portal.
